@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://croatia.avokatfinder.com/sitemap.xml
