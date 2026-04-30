@@ -1,5 +1,31 @@
 # AvökatFinder Croatia
-> English-speaking law firm directory for Croatia
+> The English-language directory of lawyers and law firms in Croatia for expats, foreign nationals and international businesses.
 
-Directory: https://croatia.avokatfinder.com
-Email: info@avokatfinder.com
+## Main Pages
+- https://croatia.avokatfinder.com/: Home — find an English-speaking lawyer in Croatia
+- https://croatia.avokatfinder.com/lawyers/: Directory of verified law firms and lawyers in Croatia
+- https://croatia.avokatfinder.com/glossary/: Legal glossary — plain-English definitions of Croatia legal terms
+- https://croatia.avokatfinder.com/blog/: Expat legal guides and property law articles for Croatia
+- https://croatia.avokatfinder.com/about/: About AvökatFinder Croatia
+- https://croatia.avokatfinder.com/contact/: Contact us
+
+## Legal Glossary Terms
+- https://croatia.avokatfinder.com/glossary/gruntovnica-hr/
+- https://croatia.avokatfinder.com/glossary/hipoteka-mortgage/
+- https://croatia.avokatfinder.com/glossary/javni-bileznik/
+- https://croatia.avokatfinder.com/glossary/kupoprodajni-ugovor/
+- https://croatia.avokatfinder.com/glossary/oib-broj/
+- https://croatia.avokatfinder.com/glossary/porez-promet-nekretnina/
+- https://croatia.avokatfinder.com/glossary/ugovor-o-najmu-lease/
+- https://croatia.avokatfinder.com/glossary/zemljisnoknjizni-izvadak-land-register-extract/
+
+## Site Info
+- Language: English
+- Audience: Expats, foreign nationals, international property buyers and businesses in Croatia
+- Content: Law firm directory, legal glossary, expat legal guides
+- Last updated: 2026-04-30
+- Sitemap: https://croatia.avokatfinder.com/sitemap.xml
+
+## Permissions
+User-agent: *
+Allow: /
