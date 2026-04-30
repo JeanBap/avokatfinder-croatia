@@ -43,6 +43,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://croatia.avokatfinder.com/glossary/hipoteka-mortgage.html</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://croatia.avokatfinder.com/glossary/javni-bileznik.html</loc>
     <lastmod>2026-04-30</lastmod>
     <changefreq>monthly</changefreq>
@@ -62,6 +68,18 @@
   </url>
   <url>
     <loc>https://croatia.avokatfinder.com/glossary/porez-promet-nekretnina.html</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://croatia.avokatfinder.com/glossary/ugovor-o-najmu-lease.html</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://croatia.avokatfinder.com/glossary/zemljisnoknjizni-izvadak-land-register-extract.html</loc>
     <lastmod>2026-04-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
